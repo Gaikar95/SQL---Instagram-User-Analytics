@@ -1,9 +1,11 @@
 # SQL---Instagram-User-Analytics
 
 **Overview**
+
 This beginner-friendly data analytics project aims to enhance users' understanding of SQL functions and improve their skills in user analytics. By addressing questions related to marketing and inverter matrix, participants will gain practical experience in applying SQL to analyze and manipulate data effectively. This project provides a hands-on opportunity to explore real-world scenarios and develop proficiency in data-driven decision-making using SQL.
 
 **Objective**
+
 In this project, these questions will be answered:
 
 Find the 5 oldest users of Instagram from the database provided. (Rewarding Most Loyal Users)
